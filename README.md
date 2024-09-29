@@ -3,7 +3,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mahdi</h1>
 
 
 <h3 align="center">Connect with me:</h3>
